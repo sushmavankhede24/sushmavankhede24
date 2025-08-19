@@ -3,7 +3,7 @@
 - 🌱 A Bit About Me: 🧩 I’m fascinated by algorithms, data structures, and all things about Python. 
 - 🌍 Based in Netherlands, I’m always eager to collaborate on interesting projects.
 - 📫 Let's Connect:
-     LinkedIn: www.linkedin.com/in/sushma-vankhede-a6567b2a4
+     LinkedIn: www.linkedin.com/in/sushma-vankhede
      Email: sushmavankhede24@gmail.com
 
 
